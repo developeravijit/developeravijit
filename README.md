@@ -61,6 +61,8 @@ I enjoy crafting modern UI, clean layouts, smooth animations, and interactive ex
 
 <img src="https://github-readme-stats.vercel.app/api?username=developeravijit&show_icons=true&theme=radical&hide_border=true" height="165" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=developeravijit&theme=radical&hide_border=true" height="165" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=developeravijit&theme=react-dark&hide_border=true" />
 
 </div>
