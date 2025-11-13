@@ -61,8 +61,6 @@ I enjoy crafting modern UI, clean layouts, smooth animations, and interactive ex
 
 <img src="https://github-readme-stats.vercel.app/api?username=developeravijit&show_icons=true&theme=radical&hide_border=true" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=developeravijit&theme=radical&hide_border=true" height="165" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=developeravijit&theme=react-dark&hide_border=true" />
 
 </div>
@@ -130,8 +128,5 @@ I enjoy crafting modern UI, clean layouts, smooth animations, and interactive ex
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/animation-samples/master/pacman/pacman.svg" height="130" />
-</div>
 
 ⭐ **Thanks for visiting my profile!**
