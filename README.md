@@ -110,6 +110,17 @@ I enjoy crafting modern UI, clean layouts, smooth animations, and interactive ex
 
 ---
 
+### 🔹 **Cabinetmak LLC – Premium Furniture Website**
+**Live:** https://cabinetmark.vercel.app/  
+<a href="https://cabinetmark.vercel.app/">
+
+  <img src="https://img.shields.io/badge/View_Project-NFTX_Art-black?style=for-the-badge&logo=vercel" />
+</a>
+
+</div>
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
