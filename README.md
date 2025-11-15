@@ -106,8 +106,6 @@ I enjoy crafting modern UI, clean layouts, smooth animations, and interactive ex
   <img src="https://img.shields.io/badge/View_Project-NFTX_Art-black?style=for-the-badge&logo=vercel" />
 </a>
 
-</div>
-
 ---
 
 ### 🔹 **Cabinetmak LLC – Premium Furniture Website**
