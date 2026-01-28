@@ -22,12 +22,9 @@ Hi, I'm **Avijit Roy**, a Front-End Developer focused on creating elegant, respo
 
 I work with:
 
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Tailwind CSS**
-- **JavaScript**
-- **Git & GitHub**
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Styling:** Bootstrap, Tailwind CSS
+- **Dev Tools:** Git & GitHub
 
 I enjoy crafting modern UI, clean layouts, smooth animations, and interactive experiences.
 
